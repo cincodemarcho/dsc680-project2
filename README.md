@@ -2,7 +2,7 @@
 
 **How much of a TV show's renewal can be predicted from public information alone?** Studios and streamers decide renewals using private data such as viewership, completion rates, and production costs. Independent producers, investors, and analysts have to judge the same bet using only what is public. This project tests how far public launch-time metadata can go, using 7,424 scripted series from The Movie Database (TMDb).
 
-📓 [Notebook](DSC680%20Project%202%20code.ipynb) · 📄 [White paper (PDF)](DSC680%20Project%202%20Milestone%203%20Whitepaper%20-%20Luera.pdf) · 📊 [Slides (PDF)](DSC680%20Project%202%20Milestone%203%20PPT%20-%20Luera.pdf)
+📓 [Notebook](DSC680%20Project%202%20code.ipynb) · 📄 [Paper](DSC680%20Project%202%20Milestone%203%20Whitepaper%20-%20Luera.pdf) · 📊 [Presentation](DSC680%20Project%202%20Milestone%203%20PPT%20-%20Luera.pdf)
 
 ---
 
