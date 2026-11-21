@@ -1,3 +1,5 @@
+[← Back to portfolio](https://cincodemarcho.github.io/data_science_portfolio/)
+
 # Predicting Whether a TV Series Gets a Second Season
 
 **How much of a TV show's renewal can be predicted from public information alone?** Studios and streamers decide renewals using private data such as viewership, completion rates, and production costs. Independent producers, investors, and analysts have to judge the same bet using only what is public. This project tests how far public launch-time metadata can go, using 7,424 scripted series from The Movie Database (TMDb).
